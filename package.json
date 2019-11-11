@@ -1,0 +1,26 @@
+{
+  "name": "CI-Status-Report-Test",
+  "version": "1.0.0",
+  "description": "Testing Sandbox for the CI Status Report Probot",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoganArnett/CI-Status-Report-Test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LoganArnett/CI-Status-Report-Test/issues"
+  },
+  "homepage": "https://github.com/LoganArnett/CI-Status-Report-Test#readme",
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  }
+}
